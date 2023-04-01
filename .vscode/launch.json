@@ -1,0 +1,357 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "linkedlist",
+            "request": "launch",
+            "mainClass": "linkedlist",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "buyingstocks",
+            "request": "launch",
+            "mainClass": "Arrays.onClass.buyingstocks",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "chocolate",
+            "request": "launch",
+            "mainClass": "Arrays.onClass.chocolate",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "intro",
+            "request": "launch",
+            "mainClass": "Arrays.onClass.intro",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "largestSumSubarray",
+            "request": "launch",
+            "mainClass": "Arrays.onClass.largestSumSubarray",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "linearsearch",
+            "request": "launch",
+            "mainClass": "Arrays.onClass.linearsearch",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "pairs",
+            "request": "launch",
+            "mainClass": "Arrays.onClass.pairs",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "qlargestNumber",
+            "request": "launch",
+            "mainClass": "Arrays.onClass.qlargestNumber",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "Arrays.onClass.reverse",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "subarray",
+            "request": "launch",
+            "mainClass": "Arrays.onClass.subarray",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "traprainwater",
+            "request": "launch",
+            "mainClass": "Arrays.onClass.traprainwater",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "Car",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "firstNonRepeating",
+            "request": "launch",
+            "mainClass": "Hashing.firstNonRepeating",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "MaxAndMin",
+            "request": "launch",
+            "mainClass": "MaxAndMin",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "Second",
+            "request": "launch",
+            "mainClass": "Second",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "allOccurance",
+            "request": "launch",
+            "mainClass": "allOccurance",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "bubbleSort",
+            "request": "launch",
+            "mainClass": "bubbleSort",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "classes_attributes",
+            "request": "launch",
+            "mainClass": "classes_attributes",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "compression",
+            "request": "launch",
+            "mainClass": "compression",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "constructorsInJava",
+            "request": "launch",
+            "mainClass": "constructorsInJava",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "fibonaaci",
+            "request": "launch",
+            "mainClass": "fibonaaci",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "firseOccurance",
+            "request": "launch",
+            "mainClass": "firseOccurance",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "firstNlast",
+            "request": "launch",
+            "mainClass": "firstNlast",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "ifSorted",
+            "request": "launch",
+            "mainClass": "ifSorted",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "increasing",
+            "request": "launch",
+            "mainClass": "increasing",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "isSorted",
+            "request": "launch",
+            "mainClass": "isSorted",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "javaPackages",
+            "request": "launch",
+            "mainClass": "javaPackages",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "kadaneAlgo",
+            "request": "launch",
+            "mainClass": "kadaneAlgo",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "largestString",
+            "request": "launch",
+            "mainClass": "largestString",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "longestJumap",
+            "request": "launch",
+            "mainClass": "longestJumap",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "nNatural",
+            "request": "launch",
+            "mainClass": "nNatural",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "opps",
+            "request": "launch",
+            "mainClass": "opps",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "poly",
+            "request": "launch",
+            "mainClass": "poly",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "power",
+            "request": "launch",
+            "mainClass": "power",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "primeOrNot",
+            "request": "launch",
+            "mainClass": "primeOrNot",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "printNnatural",
+            "request": "launch",
+            "mainClass": "printNnatural",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "printNumbers",
+            "request": "launch",
+            "mainClass": "printNumbers",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "reverseArray",
+            "request": "launch",
+            "mainClass": "reverseArray",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "reverseString",
+            "request": "launch",
+            "mainClass": "reverseString",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "selectionSort",
+            "request": "launch",
+            "mainClass": "selectionSort",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "shortestPath",
+            "request": "launch",
+            "mainClass": "shortestPath",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "strings",
+            "request": "launch",
+            "mainClass": "strings",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "sumOfN",
+            "request": "launch",
+            "mainClass": "sumOfN",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "tilingProblem",
+            "request": "launch",
+            "mainClass": "tilingProblem",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "twoSum",
+            "request": "launch",
+            "mainClass": "twoSum",
+            "projectName": "alpha course main DSA_57d7124f"
+        },
+        {
+            "type": "java",
+            "name": "uppercase",
+            "request": "launch",
+            "mainClass": "uppercase",
+            "projectName": "alpha course main DSA_57d7124f"
+        }
+    ]
+}
